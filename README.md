@@ -17,8 +17,7 @@ A sleek, dark-themed Flutter application designed to generate secure, customizab
 
 | Main Interface | Customization |
 | :---: | :---: |
-| ![Screen 1](https://via.placeholder.com/300x600?text=Dark+Theme+UI) | ![Screen 2](https://via.placeholder.com/300x600?text=Slider+Controls) |
-*(Note: Replace these placeholders with your actual app screenshots)*
+| ![Screen 1](https://github.com/Sanjeyshub45/password-generator/blob/main/WhatsApp%20Image%202026-01-18%20at%2016.22.50.jpeg) | ![Screen 2](https://github.com/Sanjeyshub45/password-generator/blob/main/WhatsApp%20Image%202026-01-18%20at%2016.22.51.jpeg) |
 
 ## 🚀 Getting Started
 
@@ -63,10 +62,7 @@ lib/
 Distributed under the MIT License. See LICENSE for more information.
 
 Made with Sanjeycodes
-
-
 ---
-
 ### How to use this:
 1.  Create a new file in your project root folder named `README.md`.
 2.  Paste the content above into that file.
