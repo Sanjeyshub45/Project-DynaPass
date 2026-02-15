@@ -1,11 +1,11 @@
-# 🔐 Flutter Password Generator
+#  DynaPass - Password Generator
 
 A sleek, dark-themed Flutter application designed to generate secure, customizable passwords on the fly. Built with Material 3 components for a modern look and feel.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## ✨ Features
+##  Features
 
 * **Customizable Length:** Generate passwords ranging from 4 to 32 characters using an intuitive slider.
 * **Granular Security Options:** Toggle Uppercase (A-Z), Lowercase (a-z), Numbers (0-9), and Special Symbols (!@#...) independently.
@@ -13,13 +13,13 @@ A sleek, dark-themed Flutter application designed to generate secure, customizab
 * **Real-time Generation:** The password updates instantly as you adjust the length or toggle security settings.
 * **Modern UI:** A clean, dark-mode interface built with Flutter's Material 3 design system.
 
-## 📸 Preview
+##  Preview
 
 | Main Interface | Customization |
 | :---: | :---: |
 | ![Screen 1](https://github.com/Sanjeyshub45/password-generator/blob/main/WhatsApp%20Image%202026-01-18%20at%2016.22.50.jpeg) | ![Screen 2](https://github.com/Sanjeyshub45/password-generator/blob/main/WhatsApp%20Image%202026-01-18%20at%2016.22.51.jpeg) |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 * [Flutter SDK](https://docs.flutter.dev/get-started/install) installed on your machine.
@@ -47,7 +47,7 @@ A sleek, dark-themed Flutter application designed to generate secure, customizab
     flutter run
     ```
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Framework:** Flutter
 * **Language:** Dart
@@ -56,16 +56,10 @@ A sleek, dark-themed Flutter application designed to generate secure, customizab
     * `SelectableText` for easy manual copying.
     * `Clipboard` service for system integration.
 
-## 📂 Project Structure
-
-```text
-lib/
-└── main.dart  # Contains the entire logic and UI of the application
-
 📜 License
-Distributed under the MIT License. See LICENSE for more information.
 
-Made with Sanjeycodes
+Owned by Fnext created by Sanjey Sivagurunathan
+
 ---
 ### How to use this:
 1.  Create a new file in your project root folder named `README.md`.
